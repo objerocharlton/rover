@@ -5,6 +5,5 @@ group :test do
   gem 'rspec'
   gem 'pry'
   gem 'autotest'
-  gem 'autotest-fsevent'
   gem 'autotest-growl'
 end
